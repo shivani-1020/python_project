@@ -1,0 +1,6 @@
+stpip inall wolframalpha
+pip install wikipedia
+pip install SpeechRecognition
+pip install ecapture
+pip install twilio
+pip install beautifulsoup4
